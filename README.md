@@ -20,6 +20,7 @@ Table of Contents
     Promotions and Discounts: Stay updated on the latest offers and discounts.
 
 2.User Guide.
+
 To use the aforementioned features, follow these simple steps:
 
     Sign Up/Log In: Create a new account or log in using your existing credentials.
