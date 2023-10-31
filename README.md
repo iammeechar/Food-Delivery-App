@@ -1,14 +1,15 @@
 Hello. This is sample project code for the software development course. The project is a food delivery app with sample data sampled from a csv file downloaded from kaggle. This README document will guide you through the key features and usage of the application.
+
 Table of Contents
 
-    Features
-    Getting Started
-    User Guide
-    Technical Details
-    Contributing
-    License
+    1.Features
+    2.Getting Started
+    3.User Guide
+    4.Technical Details
+    5.Contributing
+    6.License
 
-Features
+1.Features
 
     Restaurant Search: Browse through a diverse selection of restaurants in your area.
     Menu Exploration: View detailed menus with descriptions and prices.
@@ -18,9 +19,9 @@ Features
     User Profiles: Save your favorite restaurants and orders for quick access.
     Promotions and Discounts: Stay updated on the latest offers and discounts.
 
-User Guide.
+2.User Guide.
 
-To get started with FoodiePal, follow these simple steps:
+3.To get started with FoodiePal, follow these simple steps:
 
     Sign Up/Log In: Create a new account or log in using your existing credentials.
 
@@ -30,9 +31,9 @@ To get started with FoodiePal, follow these simple steps:
 
     Payment: Select your preferred payment method and confirm your order.
 
-Technical Details
+4.Technical Details
 
-The Food Delivery App is built using the following technologies:
+5.The Food Delivery App is built using the following technologies:
 
     Frontend: Developed using React Native for a cross-platform experience.
     Backend: Powered by a Python with a MongoDB database.
