@@ -1,4 +1,4 @@
-#Food Delivery App#
+#  Food Delivery App
 
 Hello. This is sample project code for the software development course. The project is a food delivery app with sample data sampled from a csv file downloaded from kaggle. This README document will guide you through the key features and usage of the application.
 
