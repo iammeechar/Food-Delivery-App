@@ -1,6 +1,8 @@
+#Food Delivery App
+
 Hello. This is sample project code for the software development course. The project is a food delivery app with sample data sampled from a csv file downloaded from kaggle. This README document will guide you through the key features and usage of the application.
 
-Table of Contents
+**Table of Contents**
 
     1.Features
     2.Getting Started
@@ -8,7 +10,7 @@ Table of Contents
     4.Contributing
     5.License
 
-1.Features
+**1.Features**
 
     Restaurant Search: Browse through a diverse selection of restaurants in your area.
     Menu Exploration: View detailed menus with descriptions and prices.
@@ -18,7 +20,7 @@ Table of Contents
     User Profiles: Save your favorite restaurants and orders for quick access.
     Promotions and Discounts: Stay updated on the latest offers and discounts.
 
-2.User Guide.
+**2.User Guide.**
 
 To use the aforementioned features, follow these simple steps:
 
@@ -30,7 +32,7 @@ To use the aforementioned features, follow these simple steps:
 
     Payment: Select your preferred payment method and confirm your order.
 
-3.Technical Details
+**3.Technical Details**
 
 4.The Food Delivery App is built using the following technologies:
 
