@@ -5,9 +5,8 @@ Table of Contents
     1.Features
     2.Getting Started
     3.User Guide
-    4.Technical Details
-    5.Contributing
-    6.License
+    4.Contributing
+    5.License
 
 1.Features
 
@@ -31,12 +30,12 @@ To use the aforementioned features, follow these simple steps:
 
     Payment: Select your preferred payment method and confirm your order.
 
-4.Technical Details
+3.Technical Details
 
-5.The Food Delivery App is built using the following technologies:
+4.The Food Delivery App is built using the following technologies:
 
     Frontend: Developed using React Native for a cross-platform experience.
     Backend: Powered by a Python with a MongoDB database.
     Payments: Secured through industry-standard payment gateways.
 
-The Food app is released under the MIT License. You are free to use, modify, and distribute this software in accordance with the terms specified in the license.
+6.The Food app is released under the MIT License. You are free to use, modify, and distribute this software in accordance with the terms specified in the license.
